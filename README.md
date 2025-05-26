@@ -20,7 +20,7 @@ bash -i <(curl -s https://raw.githubusercontent.com/0xohzsh/blockcast/refs/heads
 - On macOS: You will be prompted to install Docker Desktop if it is not already installed.
 - On Linux: Docker will be installed automatically (requires sudo privileges).
 
-After setup, your Hardware ID and Challenge Key will be displayed. Use these to register your node at [https://app.blockcast.network/](https://app.blockcast.network/).
+After setup, your Hardware ID and Challenge Key will be displayed. Use these to register your node at [https://app.blockcast.network/](https://app.blockcast.network?referral-code=yQQ078).
 
 ## Show Node ID Again
 
@@ -32,4 +32,4 @@ bash -i <(curl -s https://raw.githubusercontent.com/0xohzsh/blockcast/refs/heads
 
 ## Support
 
-For help, visit [https://blockcast.network](https://blockcast.network) or join the community.
+For help, visit [https://app.blockcast.network/](https://app.blockcast.network?referral-code=yQQ078) or join the community.
